@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.d-flex {
+  width: 10%;
+}
+
+.table__show {
+  display: flex;
+  margin-top: 25px;
+}
